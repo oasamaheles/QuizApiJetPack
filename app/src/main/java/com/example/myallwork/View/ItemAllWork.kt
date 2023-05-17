@@ -14,10 +14,10 @@ import com.example.myallwork.Model.Items
 @Composable
 fun ServiceColumn(work: Items, city: City, onItemClick: () -> Unit) {
     Card(
-        modifier = Modifier.padding(16.dp),
+        modifier = Modifier.padding(15.dp),
         elevation = 4.dp
     ) {
-        Column(modifier = Modifier.padding(16.dp)) {
+        Column(modifier = Modifier.padding(15.dp)) {
             Image(
                 painter = rememberImagePainter(
                     data = work.coverImage,
