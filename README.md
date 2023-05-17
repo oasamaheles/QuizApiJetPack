@@ -5,4 +5,4 @@
 
 This is my personal collection with all my fast code challenges already posted on my github accounts. Feel free to reuse it or get inspiration from the code.  
 
-<img src="Assets/img.png" alt="/" /># UcasBoxApp 
+<img src="Assets/img.png" alt="mockups" /># UcasBoxApp 
