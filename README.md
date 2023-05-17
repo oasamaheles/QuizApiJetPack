@@ -5,4 +5,4 @@
 
 This is my personal collection with all my fast code challenges already posted on my github accounts. Feel free to reuse it or get inspiration from the code.  
 
-<img src="Assets/img.png" alt="mockups" /># UcasBoxApp 
+<img alt="mockups" src="C:\Users\ohill\AndroidStudioProjects\QuizApi JetPack\Assets\img.png"/># UcasBoxApp 
