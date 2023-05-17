@@ -3,6 +3,6 @@
 </p>
 # Mobile # QuizApiJetPack - kotlin by jetpack compose
 
-This is my personal collection with all my fast code challenges already posted on my github accounts. Feel free to reuse it or get inspiration from the code.  
+This is my personal collection with all my fast code challenges already posted on my github accounts. Feel free to reuse it or get inspiration from the code.
 
-<img alt="mockups" src="C:\Users\ohill\AndroidStudioProjects\QuizApi JetPack\Assets\img.png"/>
+<img alt="mockups" src="Assets\img.png"/>
